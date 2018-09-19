@@ -1,0 +1,1 @@
+mexcuda src/class_interface_mex.cpp src/lpRgpu.cu -lcufft -output mex_gpu/class_lpRadon.mexw64
